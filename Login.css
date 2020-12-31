@@ -1,0 +1,33 @@
+.first-nav
+{
+  margin-left: 1000px;
+}
+.second-nav
+{
+  margin-left: 50px;
+}
+.third-nav
+{
+  margin-left: 50px;
+}
+.Title
+{
+  text-align: center;
+  margin-top: 50px;
+  color: white;
+}
+body
+{
+  background-color: #19456b !important;
+  color: white !important;
+}
+.comsis-logo
+{
+  width: 200px;
+  height: 200px;
+  margin-top: 20px;
+}
+a
+{
+  text-decoration: none !important;
+}
